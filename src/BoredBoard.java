@@ -18,7 +18,8 @@ public class BoredBoard {
 				"clean the toilet.",
 				"clean the kitchen surfaces.",
 				"mop a floor.",
-				"do some decorating."};
+				"do some decorating.",
+				"play guitar"};
 
 		String answer = "yes";
 		String line = "";
