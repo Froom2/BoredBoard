@@ -6,8 +6,8 @@ public class BoredBoard {
 
 	public static void main(String[] args) {
 		// make list of things I could do when i'm bored
-		String[] tasks = { 
-				"study Java.", 
+		String[] tasks = {
+                "study Java.",
 				"wash up.",
 				"listen to a podcast.",
 				"empty a box!",
@@ -18,10 +18,11 @@ public class BoredBoard {
 				"clean the toilet.",
 				"clean the kitchen surfaces.",
 				"mop a floor.",
-				"do some decorating."};
+				"do some decorating.",
+				"play guitar."};
 
 		String answer = "yes";
-		String line = "";
+		String line;
 		
 		do  {
 			// Suggest a thing from the list, ask me if I want to do it.
